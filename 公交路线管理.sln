@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "公交路线管理", "公交路线管理.csproj", "{972FC286-1975-4509-9D5F-4C5268C013CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{972FC286-1975-4509-9D5F-4C5268C013CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972FC286-1975-4509-9D5F-4C5268C013CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972FC286-1975-4509-9D5F-4C5268C013CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972FC286-1975-4509-9D5F-4C5268C013CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91AF3F74-5A44-4362-A14A-3A7CCAB84582}
+	EndGlobalSection
+EndGlobal
